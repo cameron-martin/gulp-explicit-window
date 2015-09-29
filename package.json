@@ -1,6 +1,6 @@
 {
   "name": "gulp-explicit-window",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin for explicit-window",
   "main": "index.js",
   "scripts": {
