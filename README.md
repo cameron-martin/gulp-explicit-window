@@ -14,3 +14,6 @@ gulp.task('build-js', function() {
     .pipe(gulp.dest('dist/js'));
 });
 ```
+
+## TODO
+* Support sourcemaps. See https://github.com/floridoo/vinyl-sourcemaps-apply, https://github.com/floridoo/gulp-sourcemaps, https://github.com/benjamn/recast#source-maps and https://github.com/sindresorhus/gulp-regenerator/issues/2 for an implementation example.
