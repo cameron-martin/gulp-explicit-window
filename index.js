@@ -3,7 +3,7 @@ var gutil = require('gulp-util');
 var PluginError = gutil.PluginError;
 var explicitWindow = require('explicit-window');
 
-const PLUGIN_NAME = 'gulp-prefixer';
+const PLUGIN_NAME = 'gulp-explicit-window';
 
 function gulpExplicitWindow() {
   return through.obj(function(file, enc, callback) {
