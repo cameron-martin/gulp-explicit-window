@@ -1,5 +1,7 @@
 # gulp-explicit-window
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cameron-martin/gulp-explicit-window.svg)](https://greenkeeper.io/)
+
 A gulp plugin for [explicit-window](https://github.com/cameron-martin/explicit-window).
 
 ## Usage
